@@ -1,0 +1,23 @@
+{
+  "name": "testdd",
+  "version": "1.0.0",
+  "description": "test TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha js/tests/findCrushList.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosraiol/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosraiol/javascript/issues"
+  },
+  "homepage": "https://github.com/carlosraiol/javascript#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2",
+    "should": "^13.2.3"
+  }
+}
